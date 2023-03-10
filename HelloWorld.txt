@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HELLO WORLD
+=======
+TODAY IS A VERY NICE DAY
+>>>>>>> TryBranch
